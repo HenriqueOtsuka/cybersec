@@ -2,7 +2,7 @@ DVWA é uma aplicação criada propositamente para ser vulnerável
 
 Damn Vulnerable Web Application
 
-sudo bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/IamCarron/DVWA-Script/main/Install-DVWA.sh)“
+sudo bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/IamCarron/DVWA-Script/main/Install-DVWA.sh)"
 
 sudo service mariadb start 
 sudo service mariadb status
